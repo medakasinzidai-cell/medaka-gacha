@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
-<title>めだかオリパガチャ</title>
+<title>めだかオリパ</title>
 <style>
 body {
   background: #0a0a0a;
